@@ -24,24 +24,30 @@ Movements are inputted as follows:
 
 ## Moving from the Draw pile to a Foundation
 mdf foundation-number
+
 I.E., if I wanted to move from the draw pile to the fourth foundation, I would type "mdf 4".
 
 ## Moving from the Draw pile to a hand pile
 md pile-number
+
 I.E., if I wanted to move from the draw pile to the third pile, I would type "md 3".
 
 ## Moving from pile to pile
 mpp pile1-number num-of-cards pile2-number
+
 I.E., if I wanted to move 3 cards from the first pile to the seventh pile, I would type "mpp 1 3 7".
 
 ## Moving from pile to a Foundation
 mpf pile-number foundation-number
+
 I.E., if I wanted to move from the sixth pile to the second foundation, I would type "mpf 6 2".
 
 ## Discarding from the draw pile
 dd
+
 This is for when there are no moves to be made except for cycling through the draw pile.
 
 ## Qutting the game
 q
+
 If you don't want to play anymore, you can exit the game by pressing "q".
